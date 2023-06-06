@@ -17,7 +17,7 @@ const Footer = () => {
                                 </Link>
                             </div>
                             <p className="copyright-text">
-                                © 2015 Tatvasoft.com. All rights reserved.
+                                © 2023 Tatvasoft.com. All rights reserved.
                             </p>
                         </div>
                     </div>
